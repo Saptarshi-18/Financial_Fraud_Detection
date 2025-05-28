@@ -44,8 +44,5 @@ The project explores both traditional machine learning models and deep learning 
 - Detailed model performance analysis and interpretation, including confusion matrices and ROC curves.
 
 
-## Deployed Model
-- The trained model has been deployed using Flask for inference. Access the deployment repository [here](https://github.com/StrangeCoder1729/FinancialFraudDetector).
-
  
  
